@@ -36,7 +36,7 @@
       <p>
         A full-stack e-commerce application built on the MERN stack, covering
         product catalogs, user authentication, and RESTful APIs, with
-        MongoDB/Mongoose for data modeling and Next.js on the frontend.
+        MongoDB/Mongoose for data modeling and React.js on the frontend.
       </p>
       <p>
         <code>MongoDB</code> <code>Mongoose</code> <code>React.js</code> <code>REST API</code>
